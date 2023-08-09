@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    font-family : Arial;
+    border : border-box;
+}
+
+.hd{
+    background-color:black;
+    border:2px solid white;
+    height: 120px;
+    
+}
+.hedi{
+    color: darkgoldenrod;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.dmb{
+    text-align: right;
+    padding: 30px;
+}
+.dark-mode 
+{
+    background-color: black;
+    color: rgba(0,0,0,0.4);
+}
+.maint {
+    color:gold;
+    height:380px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.share-buttons {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  height: 150px;
+  background-color: #222f3d;
+  border:2px solid white;
+
+}
+.share-button {
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 8px 16px;
+}
+.soct{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.socn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25px;
+  color: white;
+}
+.soci{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+.gmail{
+  background-color: red;
+  border:2px solid white;
+}
+.github{
+  background-color: #0077b5;
+  border:2px solid white;
+}
+.twitter {
+  background-color: #1da1f2;
+  border:2px solid white;
+}
+.linkedin {
+  background-color: #0077b5;
+  border:2px solid white;
+}
+.instagram{
+  background-color: black;
+  border:2px solid white;
+}
+.teco{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 80px;
+  background-color: #222f3d;
+  border:2px solid white;
+}
+  
+  
+  
+  
